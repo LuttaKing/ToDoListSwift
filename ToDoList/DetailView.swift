@@ -51,9 +51,6 @@ struct DetailView: View {
                 Toggle("Is Completed", isOn: $toDo.isCompleted)
                     
                     .listRowSeparator(.hidden)
-
-                
-                
                 
             }
             .listStyle(.plain)

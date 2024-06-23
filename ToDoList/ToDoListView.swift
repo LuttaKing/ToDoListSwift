@@ -30,8 +30,6 @@ struct ToDoListView: View {
                         Text("\(todo.toDo)")
                         
                         
-                        
-                        
                     }
                     .font(.title2)
                     
